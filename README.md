@@ -4,6 +4,9 @@
 
 Provides functionality to calculate product offers availability in service points.
 
+**DEPRECATED - This module is not continued at this point.**
+Please use [spryker/product-offer-service-point-availability-calculator-storage](https://github.com/spryker/product-offer-service-point-availability-calculator-storage) instead.
+
 ## Installation
 
 ```

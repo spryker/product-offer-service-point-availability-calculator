@@ -41,5 +41,6 @@
         "allow-plugins": {
             "dealerdirect/phpcodesniffer-composer-installer": true
         }
-    }
+    },
+    "abandoned": "spryker/product-offer-service-point-availability-calculator-storage"
 }
